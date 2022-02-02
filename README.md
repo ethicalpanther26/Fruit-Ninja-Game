@@ -6,4 +6,34 @@ Fruit Ninja Game made in Python 3 using pygame library
 
 
 Note :- Will work on only 64-bit os and python3 is needed to run the game. 
-To use :- git clone
+
+
+
+
+
+
+To use :- 
+
+
+
+
+
+git clone https://github.com/ethicalpanther26/Fruit-Ninja-Game.git
+
+
+
+
+
+cd Fruit-Ninja-Game
+
+
+
+
+
+
+python fruit_ninja.py
+
+
+
+
+***pip install pygame , random *** 
