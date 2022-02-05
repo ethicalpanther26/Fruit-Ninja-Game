@@ -30,10 +30,18 @@ cd Fruit-Ninja-Game
 
 
 
+***pip install pygame , random *** 
+
+
+
 
 python fruit_ninja.py
 
 
 
 
-***pip install pygame , random *** 
+Update :- Icon of the window of game is updated.
+
+
+
+
