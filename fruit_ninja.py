@@ -13,6 +13,8 @@ FPS = 12                                                 #controls how often the
 pygame.init()
 pygame.display.set_caption('Fruit-Ninja Game')
 gameDisplay = pygame.display.set_mode((WIDTH, HEIGHT))   #setting game display size
+icon = pygame.image.load('melon.png')
+pygame.display.set_icon(icon)
 clock = pygame.time.Clock()
 
 # Define colors
